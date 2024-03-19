@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayford295，MS in Spatial Data Science from the University of Southern California.
-- 📖 My current plan is to apply for a PhD in spatial science, geoAI, and spatial analysis. 
+- 📖 I got some PhD offers in spatial science, geoAI, and spatial analysis. 
 - 🌱 I’m currently pursuing a master’s degree in spatial data science at the University of Southern California.
 - 💞️ I’m looking to collaborate on everyone who wants to do something for the world.
 - 📫 How to reach me, send yyf990925@gmail.com, my wechat number is yf8386626967.
