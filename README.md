@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rayford295，MS in Spatial Data Science from the University of Southern California.
-- 📖 I got some PhD offers in spatial science, geoAI, and spatial analysis. 
+- 👋 Hi, I’m @rayford295，My research interests are the application of AGI in geographical natural disasters and social media.
+- 📖 I am a Phd student at Texas A&M University who will enroll in August 2024. 
 - 🌱 I’m currently pursuing a master’s degree in spatial data science at the University of Southern California.
 - 💞️ I’m looking to collaborate on everyone who wants to do something for the world.
 - 📫 How to reach me, send yyf990925@gmail.com, my wechat number is yf8386626967.
