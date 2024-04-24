@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rayford295，My research interests are the application of AGI in geographical natural disasters and social media.
+- 👋 Hi, I’m @rayford295，My research interests are GeoAI, Spatial Data Science, AI4Science.
 - 📖 I am a Phd student at Texas A&M University who will enroll in August 2024. 
 - 🌱 I’m currently pursuing a master’s degree in spatial data science at the University of Southern California.
 - 💞️ I’m looking to collaborate on everyone who wants to do something for the world.
