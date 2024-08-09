@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayford295，My research interests are GeoAI, Spatial Data Science, AI4Science.
-- 📖 I am a Phd student at Texas A&M University who will enroll in August 2024. 
+- 📖 I am a 🌏 geography Phd student at Texas A&M University. 
 - 🌱 I have earned a master's degree in spatial data science from the University of Southern California. 
 - 💞️ I’m looking to collaborate with different domain.
 - 📫 How to reach me, send yyf990925@gmail.com, my wechat number is yf8386626967.
