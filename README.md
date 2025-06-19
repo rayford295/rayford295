@@ -3,8 +3,6 @@
 - 🌱 I have earned a master's degree in spatial data science from the University of Southern California. 
 - 💞️ I’m looking to collaborate with different domain.
 - 📫 How to reach me, send yyf990925@gmail.com, my wechat number is yf8386626967.
-- 🎆 Resume: https://drive.google.com/file/d/1ruXU6iWp534s2i0a2nIaOKNKFbzFwz7F/view?usp=sharing
-- 🎰 Debut Novel：https://docs.google.com/document/d/1BwW90BVCZvJPWWH0lYRee5o1WnLwvQwvmRjdp7JT7pQ/edit
 
 
 
