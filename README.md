@@ -14,14 +14,12 @@
 - 📫 Reach me at: `yyf999025@gmail.com`
 ---
 
-#### 👨‍💻 Programming & Data Science
+#### 🛠️ Tools & Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-#### 🔬 Deep Learning & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD43B?style=flat-square&logo=huggingface&logoColor=black)
 ![CLIP](https://img.shields.io/badge/-CLIP-000000?style=flat-square&logo=openai&logoColor=white)
@@ -29,16 +27,12 @@
 ![SAM](https://img.shields.io/badge/-SAM-4A90E2?style=flat-square&logo=meta&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/-StableDiffusion-FF69B4?style=flat-square&logo=deepai&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/-TensorBoard-FFA500?style=flat-square&logo=tensorflow&logoColor=white)
-
-#### 🌍 Geo & Remote Sensing
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/-GEE-34A853?style=flat-square&logo=googleearth&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 ![Mapillary](https://img.shields.io/badge/-Mapillary-05C2D1?style=flat-square&logo=mapbox&logoColor=white)
-
-#### 🚀 Other Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
