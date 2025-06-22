@@ -41,8 +41,6 @@
 ### 🌐 Let's Connect
 
 - 🌐 Personal Website: [rayford295.github.io](https://rayford295.github.io/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yifan-yang-14a898186/)
-- 📖 [Google Scholar](https://scholar.google.com/citations?user=B-fiSHwAAAAJ)
 
 ---
 
