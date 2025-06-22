@@ -44,15 +44,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayford295&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayford295&layout=compact&theme=default" height="165">
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - 🌐 Personal Website: [rayford295.github.io](https://rayford295.github.io/)
