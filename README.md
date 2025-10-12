@@ -22,6 +22,10 @@
   <img src="https://github.com/rayford295/rayford295/blob/main/camus.jpg" alt="Yifan's Visual Banner" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/rayford295/rayford295/blob/main/jackie.jpg" alt="Yifan's Visual Banner" width="500"/>
+</p>
+
 
 #### 🛠️ Tools & Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
