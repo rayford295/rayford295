@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/jackie.jpg" alt="Yifan's Visual Banner" width="500"/>
+  <img src="https://github.com/rayford295/rayford295/blob/main/jackie.JPG" alt="Yifan's Visual Banner" width="500"/>
 </p>
 
 
