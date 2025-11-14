@@ -14,6 +14,11 @@
 - ✨ *Slogan:* **“Transcending the screen — making the real world our playground of intelligence.”**
 - 📫 Reach me at: `yyf999025@gmail.com`
 ---
+<!-- 🌐 Ph.D. Research Framework -->
+<p align="center">
+  <img src="https://github.com/rayford295/rayford295/blob/main/Ph.D.%20Research%20Framework.png" 
+       alt="Yifan's Ph.D. Research Framework" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/rayford295/rayford295/blob/main/godfather.png" alt="Yifan's Visual Banner" width="500"/>
