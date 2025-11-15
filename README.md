@@ -16,7 +16,7 @@
 ---
 <!-- 🌐 Ph.D. Research Framework -->
 <p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/Ph.D.%20Research%20Framework.png" 
+  <img src="https://github.com/rayford295/rayford295/blob/main/Autonomous%20GeoAI%20Research%20Pathway%20for%20Disaster%20Resilience.png" 
        alt="Yifan's Ph.D. Research Framework" width="1000"/>
 </p>
 
