@@ -20,17 +20,7 @@
        alt="Yifan's Ph.D. Research Framework" width="1000"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/godfather.png" alt="Yifan's Visual Banner" width="500"/>
-</p>
 
-<p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/camus.jpg" alt="Yifan's Visual Banner" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/jackie.JPG" alt="Yifan's Visual Banner" width="500"/>
-</p>
 
 
 #### 🛠️ Tools & Tech Stack
