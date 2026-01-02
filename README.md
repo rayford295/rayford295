@@ -10,7 +10,7 @@
 - 🔭 I’m currently researching **AI4Science**, **GeoAI**, **Spatial Data Science**, and **Autonomous GeoAI Science**
 - 📚 I earned my **Master's degree in Spatial Data Science** from the **University of Southern California**
 - 🌎 I’m open to **collaborations** across domains: GIScience, AI, Computer Vision, disaster management...
-- 💬 Ask me about **AI4GIScience**, **Remote Sensing**, **Multimodal Learning**, or **Disaster Resilience**
+- 💬 Ask me about **AI4Science**, **Remote Sensing**, **Multimodal Learning**, or **Disaster Resilience**
 - ✨ *Slogan:* **“Transcending the screen — making the real world our playground of intelligence.”**
 - 📫 Reach me at: `yyf999025@gmail.com`
 ---
