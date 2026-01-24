@@ -51,6 +51,15 @@
 
 - 🌐 Personal Website: [rayford295.github.io](https://rayford295.github.io/)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+</p>
 ---
 
 _✨ This profile README is auto-displayed from the `rayford295/rayford295` special repo._
