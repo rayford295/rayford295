@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for rayford295 -->
 
 <h1 align="center">Hi there 👋, I'm Yifan Yang</h1>
-<h3 align="center">Ph.D. student in Geography @ Texas A&M University</h3>
+<h3 align="center">Ph.D. Student @ Texas A&M University</h3>
 
 ---
 
@@ -20,9 +20,18 @@
        alt="Yifan's Ph.D. Research Framework" width="1000"/>
 </p>
 
+## 🐍 Contribution Activity
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation"
+         src="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-
+---
 #### 🛠️ Tools & Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -50,19 +59,6 @@
 ### 🌐 Let's Connect
 
 - 🌐 Personal Website: [rayford295.github.io](https://rayford295.github.io/)
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation"
-         src="https://raw.githubusercontent.com/rayford295/rayford295/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ---
 
 _✨ This profile README is auto-displayed from the `rayford295/rayford295` special repo._
