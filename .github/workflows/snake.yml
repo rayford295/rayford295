@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # 每天 UTC 00:00
   workflow_dispatch:
   push:
     branches:
@@ -22,6 +22,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Force daily update
+        run: date > dist/.last_updated
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
