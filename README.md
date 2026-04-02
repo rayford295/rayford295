@@ -21,11 +21,6 @@
 </p>
 
 ---
-<!-- 🌐 AI&Disaster Resilience Research Framework -->
-<p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/AI%26disaster%20resilience_framework.png" 
-       alt="AI&Disaster Ph.D. Research Framework" width="1000"/>
-</p>
 
 ## 🐍 Contribution Activity
 
