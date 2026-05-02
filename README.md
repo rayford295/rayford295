@@ -8,6 +8,8 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently researching **AI4Science**, **GeoAI**, **Spatial Data Science**, and **Autonomous GeoAI Science**
+- 🚀 I recently founded [**Rayford AI**](https://rayford-ai.com/), a research-to-venture effort building **Ray**, a property-level resilience AI for disaster damage assessment, claims triage, and recovery intelligence
+- 🧭 I am translating disaster GeoAI, street-view damage assessment, and multimodal spatial intelligence into auditable evidence workflows for insurers, governments, adjusters, and recovery teams
 - 📚 I earned my **Master's degree in Spatial Data Science** from the **University of Southern California**
 - 🌎 I’m open to **collaborations** across domains: GIScience, AI, Computer Vision, disaster management...
 - 💬 Ask me about **AI4Science**, **Remote Sensing**, **Multimodal Learning**, or **Disaster Resilience**
@@ -65,7 +67,9 @@
 ### 🌐 Let's Connect
 
 - 🌐 Personal Website: [rayford295.github.io](https://rayford295.github.io/)
+- 🚀 Rayford AI: [rayford-ai.com](https://rayford-ai.com/)
+- 🧭 AutonomousGeoAI4Science: [autogeoai4sci.github.io](https://autogeoai4sci.github.io/)
+- 💼 LinkedIn: [Yifan Yang](https://www.linkedin.com/in/yifan-yang-14a898186/)
 ---
 
 _✨ This profile README is auto-displayed from the `rayford295/rayford295` special repo._
-
