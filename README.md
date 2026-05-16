@@ -8,7 +8,7 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently researching **AI4Science**, **GeoAI**, **Spatial Data Science**, and **Autonomous GeoAI Science**
-- 🚀 I recently founded [**Rayford AI**](https://rayford-ai.com/), a research-to-venture effort building **Ray**, a property-level resilience AI for disaster damage assessment, claims triage, and recovery intelligence
+- 🚀 I founded [**Rayford AI**](https://rayford-ai.com/), a research-to-venture effort building **Ray**, a property-level resilience AI for disaster damage assessment, claims triage, and recovery intelligence
 - 🧭 I am translating disaster GeoAI, street-view damage assessment, and multimodal spatial intelligence into auditable evidence workflows for insurers, governments, adjusters, and recovery teams
 - 📚 I earned my **Master's degree in Spatial Data Science** from the **University of Southern California**
 - 🌎 I’m open to **collaborations** across domains: GIScience, AI, Computer Vision, disaster management...
