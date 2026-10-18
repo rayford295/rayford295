@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently researching **AI4Science**, **AI4Good**, **Spatial Data Science**, and **Autonomous GeoAI Science**
+- 🔭 I’m currently researching **AI4Science**, **GeoAI**, **Disaster Resilience**, **Generative AI**, and **Agentic AI**
 - 🧭 I am translating disaster GeoAI, street-view damage assessment, and multimodal spatial intelligence into auditable evidence workflows for insurers, governments, adjusters, and recovery teams
 - 📚 I earned my **Master's degree in Spatial Data Science** from the **University of Southern California**
 - 🌎 I’m open to **collaborations** across domains: GIScience, AI, Computer Vision, disaster management...
@@ -15,10 +15,10 @@
 - ✨ *Slogan:* **“Transcending the screen — making the real world our playground of intelligence.”**
 - 📫 Reach me at: `yyf999025@gmail.com`
 ---
-<!-- 🌐 Ph.D. Research Framework -->
+<!-- 🌐 Research Interests: GeoAI for Disaster Resilience -->
 <p align="center">
-  <img src="https://github.com/rayford295/rayford295/blob/main/Autonomous%20GeoAI%20Research%20Pathway%20for%20Disaster%20Resilience.png" 
-       alt="Yifan's Ph.D. Research Framework" width="1000"/>
+  <img src="https://github.com/rayford295/rayford295/blob/main/Research%20Interests%20-%20GeoAI%20for%20Disaster%20Resilience.png?raw=true"
+       alt="Research interests: GeoAI for disaster resilience, organized around spatiotemporal complementarity, place specificity vs. transferability, accountability, and place-based decision support" width="1000"/>
 </p>
 
 ---
