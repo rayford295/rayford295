@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for rayford295 -->
 
 <h1 align="center">Hi there 👋, I'm Yifan Yang</h1>
-<h3 align="center">Ph.D. Student @ Texas A&M University</h3>
+<h3 align="center">Ph.D. Candidate @ Texas A&M University</h3>
 
 ---
 
